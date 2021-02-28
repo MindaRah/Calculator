@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Intro</string>
+    <string name="textview_text_0">0</string>
+    <string name="button_subtract_symbol">-</string>
+    <string name="button_multipy_symbol">x</string>
+    <string name="button_text_clear">C</string>
+    <string name="button_no1">1</string>
+    <string name="button_no2">2</string>
+    <string name="button_no3">3</string>
+    <string name="button_no4">4</string>
+    <string name="button_no5">5</string>
+    <string name="button_no6">6</string>
+    <string name="button_no7">7</string>
+    <string name="button_no8">8</string>
+    <string name="button_no9">9</string>
+    <string name="button_dot">.</string>
+    <string name="button_no0">0</string>
+    <string name="button_equals_symbol">=</string>
+    <string name="button_add_symbol">+</string>
+    <string name="button_pi_symbol">π</string>
+    <string name="button_divide_symbol">&#247;</string>
+    <string name="imageview_ocean_carries_memories">ocean carries memories</string>
+    <string name="clear_text">0</string>
+</resources>
